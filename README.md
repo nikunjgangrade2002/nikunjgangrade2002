@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Nikunj Gangrade</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikunjgangrade2002&label=Profile%20views&color=0e75b6&style=flat" alt="nikunjgangrade2002" /> </p>
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **nikunjgangrade2002@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 </p>
 
